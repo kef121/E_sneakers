@@ -1,2 +1,2 @@
 # E_sneakers
-A sneakers company
+An ecommerce platfrom where you can get limited edition sneakers
